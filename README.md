@@ -1,8 +1,6 @@
-# M5PROGOPD2
-
 # opdracht unity enemy
 
-# scripts zijn hier [scripts](https://github.com/beebopyomi/M5PROG/tree/main/Assets/Scripts)
+scripts zijn hier te bevinden [scripts](https://github.com/beebopyomi/M5PROG/tree/main/Assets/Scripts)
 
 ![gif](pp.gif)
 
