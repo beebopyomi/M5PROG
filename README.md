@@ -10,7 +10,7 @@ wat is de opdracht? gwn laten zien hoe scripts met elkaar comuniceeren als ze li
 
 # opdracht 03
 
-opdracht 03 bevind zich hier [link naar opdracht](https://github.com/beebopyomi/PROG04/tree/main)
+opdracht 03 bevind zich hier [link naar opdracht](https://github.com/beebopyomi/PROG03)
 
 # Opdracht 04
 
