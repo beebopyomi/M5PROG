@@ -20,4 +20,4 @@ alles related aan opdracht 04 staat in de readme van 04.
 
 # opdracht 05
 
-opdracht 05 bevind zich hier [link naar opdracht](https://github.com/beebopyomi/PROG04/tree/main)
+link naar opdracht 05 gaat zich hier bevinden [link naar opdracht](https://github.com/beebopyomi/PROG04/tree/main)
